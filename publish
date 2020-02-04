@@ -1,2 +1,0 @@
-SITE=patentpotato.com
-rsync -a --delete ./ --exclude Makefile --exclude publish --exclude pre-commit $SITE:/var/www/$SITE/
