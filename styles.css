@@ -23,7 +23,7 @@ nav[role=navigation] {
 }
 
 nav[role=navigation] a[href] {
-  padding: 0 0.3ex;
+  padding: 0 0.5ex;
 }
 
 main[role=main] {
