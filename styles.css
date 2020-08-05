@@ -15,6 +15,17 @@ header[role=banner] {
   text-align: center;
 }
 
+nav[role=navigation] {
+  display: block;
+  margin: 0 auto 1rem auto;
+  max-width: 33rem;
+  text-align: center;
+}
+
+nav[role=navigation] a[href] {
+  padding: 0 0.3ex;
+}
+
 main[role=main] {
   display: block;
   margin: 1rem auto;
