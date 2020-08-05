@@ -76,3 +76,9 @@ dt {
   margin-top: 1rem;
   font-style: italic;
 }
+
+.arguments td, #arguments th {
+  width: 50%;
+  vertical-align: top;
+  padding-bottom: 1rem;
+}
