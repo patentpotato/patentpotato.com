@@ -15,6 +15,10 @@ header[role=banner] {
   text-align: center;
 }
 
+header[role=banner] img {
+  user-select: none;
+}
+
 nav[role=navigation] {
   display: block;
   margin: 0 auto 1rem auto;
